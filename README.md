@@ -7,3 +7,5 @@ This is unstaged file.
 This is example for cherry pick and rebase
 
 Utiize this branch
+
+Updating the git stash
